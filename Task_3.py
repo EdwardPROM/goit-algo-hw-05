@@ -132,8 +132,8 @@ def rabin_karp_search(main_string, substring):
 
 
 # Підрядки для пошуку
-existing_pattern_text_1 = "pattern"  # Існуючий підрядок текст 1
-existing_pattern_text_2 = "pattern"  # Існуючий підрядок текст 2
+existing_pattern_text_1 = 'public static int linearSearch'  # Існуючий підрядок текст 1
+existing_pattern_text_2 = 'Editors Ricci F'  # Існуючий підрядок текст 2
 non_existing_pattern = "xyz"  # Неіснуючий підрядок
 
 # Виміряємо час для кожного алгоритму
